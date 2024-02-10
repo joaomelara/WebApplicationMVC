@@ -1,4 +1,4 @@
-﻿namespace WebApplicationMVC.Models.ViewModel
+﻿namespace WebApplicationMVC.Models
 {
     public class Department
     {

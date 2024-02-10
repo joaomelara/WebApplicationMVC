@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using WebApplicationMVC.Models.ViewModel;
+using WebApplicationMVC.Models;
 
 namespace WebApplicationMVC.Controllers
 {
